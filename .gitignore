@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/cache/
+output/
+*.tmp
+*.log
+.env
+.env.*
+!/.env.example
+*.pem
+*.key

@@ -1,0 +1,2 @@
+﻿date,fund_code,fund_name,reported_ai_exposure,group,corr_20d,fit_pass,fit_status,fit_report_date,fit_window_end,min_quote_coverage,alpha,beta,validation_corr,oos_r2,validation_rmse,exposure_group,eligible_research_sample,report_published_date,fit_window_start,training_end,validation_start
+2026-08-31,001832,易方达瑞恒灵活配置混合,0.4726,AI Heavy,,True,通过,2026-06-30,2026-08-28,1.0,-0.001904620030539468,0.8409053736596367,0.971873854085511,0.9281888361031809,0.009628842489112367,AI Heavy,True,2026-07-21,2026-06-05,2026-07-31,2026-08-03
